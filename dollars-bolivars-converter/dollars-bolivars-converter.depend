@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650548243 source:/home/jossethrodrguez/workspace/I_corte_algoritmos_y_programacion_II/dollars-bolivars-converter/main.c
+	<stdio.h>
+	<stdlib.h>
+
